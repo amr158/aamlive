@@ -5,3 +5,7 @@ patchesStrategicMerge:
   - service-patch.yaml
 commonLabels:
   env: dev
+images:
+- name: nginx
+  newName: amr158/welcome-nginx
+  newTag: 1.0.0
