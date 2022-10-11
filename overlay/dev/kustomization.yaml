@@ -8,4 +8,4 @@ commonLabels:
 images:
 - name: nginx
   newName: amr158/welcome-nginx
-  newTag: 1.1.0
+  newTag: 1.0.0
